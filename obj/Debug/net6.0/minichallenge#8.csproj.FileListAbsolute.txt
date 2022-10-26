@@ -1,0 +1,15 @@
+/Users/michellemalfabon/Desktop/GuessIt/bin/Debug/net6.0/minichallenge#8
+/Users/michellemalfabon/Desktop/GuessIt/bin/Debug/net6.0/minichallenge#8.deps.json
+/Users/michellemalfabon/Desktop/GuessIt/bin/Debug/net6.0/minichallenge#8.runtimeconfig.json
+/Users/michellemalfabon/Desktop/GuessIt/bin/Debug/net6.0/minichallenge#8.dll
+/Users/michellemalfabon/Desktop/GuessIt/bin/Debug/net6.0/minichallenge#8.pdb
+/Users/michellemalfabon/Desktop/GuessIt/obj/Debug/net6.0/minichallenge#8.csproj.AssemblyReference.cache
+/Users/michellemalfabon/Desktop/GuessIt/obj/Debug/net6.0/minichallenge#8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michellemalfabon/Desktop/GuessIt/obj/Debug/net6.0/minichallenge#8.AssemblyInfoInputs.cache
+/Users/michellemalfabon/Desktop/GuessIt/obj/Debug/net6.0/minichallenge#8.AssemblyInfo.cs
+/Users/michellemalfabon/Desktop/GuessIt/obj/Debug/net6.0/minichallenge#8.csproj.CoreCompileInputs.cache
+/Users/michellemalfabon/Desktop/GuessIt/obj/Debug/net6.0/minichallenge#8.dll
+/Users/michellemalfabon/Desktop/GuessIt/obj/Debug/net6.0/refint/minichallenge#8.dll
+/Users/michellemalfabon/Desktop/GuessIt/obj/Debug/net6.0/minichallenge#8.pdb
+/Users/michellemalfabon/Desktop/GuessIt/obj/Debug/net6.0/minichallenge#8.genruntimeconfig.cache
+/Users/michellemalfabon/Desktop/GuessIt/obj/Debug/net6.0/ref/minichallenge#8.dll

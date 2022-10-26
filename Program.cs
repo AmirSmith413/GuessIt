@@ -1,4 +1,10 @@
-﻿//Mini Challenge # 8
+﻿//Review: Michelle 
+//Working, but hard to know what to type for difficulty level and no replay option
+
+
+
+
+//Mini Challenge # 8
 //Finished on 8/18/22
 //Peer Reviewed by:Angelica Ayala
 
